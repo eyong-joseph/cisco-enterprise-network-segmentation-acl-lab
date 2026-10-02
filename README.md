@@ -55,7 +55,7 @@ The lab uses a Cisco 2911 router and a Cisco 2960 switch to provide VLAN segment
 
 ### Network Design
 
-![Enterprise Network Design Topology](toplogy/design-topology-png)
+[Enterprise Network Design Topology](toplogy/design-topology-png)
 
                     R1
              Cisco 2911 Router
